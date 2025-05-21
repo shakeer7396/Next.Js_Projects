@@ -1,0 +1,12 @@
+{
+  "title": "Task Manager",
+  "add": "Add",
+  "enterTask": "Enter a Task...",
+  "edit": "✏️ Edit",
+  "delete": "❌ Delete",
+  "save": "💾 Save",
+  "loading": "Loading...",
+  "noPages": "No pages",
+  "apiTitle": "API Data Fetch",
+  "page": "Page"
+}
